@@ -1,4 +1,4 @@
-# Simple React JS Project
+# Simple React JS Project , Only for demo purpose
 
 ## What is the use of this Repo
 
